@@ -1,0 +1,1 @@
+server=localhost;user id=antwnis;password=antwnis@123;port=3307;characterset=utf8;database=antwnis
